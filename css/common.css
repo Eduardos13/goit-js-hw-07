@@ -178,3 +178,29 @@ label {
   flex-direction: column;
   gap: 8px;
 }
+
+/* ========== task-5 ======== */
+
+.widget {
+  border-radius: 8px;
+  padding: 100px 88px;
+  width: 345px;
+  height: 280px;
+  background-color: #ffffff;
+}
+
+.widget p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.50;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+.change-color {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 148px;
+  height: 40px;
+  margin-top: 0;
+}

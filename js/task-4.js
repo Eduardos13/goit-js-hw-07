@@ -16,7 +16,7 @@ function handleSubmit (event) {
     });
 
     if (!texValue) {
-        alert ("All form fields must be filled in");
+        return alert ("All form fields must be filled in");
     }
 
     const inputInfo = {};
